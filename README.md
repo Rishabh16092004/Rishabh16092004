@@ -6,7 +6,7 @@
 
 ### 💻 Computer Science Engineering Student
 
-🌱 Passionate about Java, Spring Boot, MERN Stack & Problem Solving
+🌱 Passionate about Java, DSA, MERN Stack & Problem Solving
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,spring,git,github,vscode,postman,docker,linux"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,spring,git,github,vscode"/>
 
 </p>
 
@@ -44,15 +44,15 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishabh16092004&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh16092004&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh16092004&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -86,8 +86,4 @@
 
 ---
 
-<p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
-
-</p>
