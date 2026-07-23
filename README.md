@@ -43,20 +43,14 @@
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishabh16092004&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishabh16092004&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh16092004&theme=tokyonight"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=Rishabh16092004&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh16092004&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh16092004&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
-
 # 🏆 Coding Profiles
 
 <p align="center">
