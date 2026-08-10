@@ -22,10 +22,9 @@
 
 # 🌱 Currently Learning
 
-- Java + Spring Boot
+- Java 
 - MERN Stack
 - Data Structures & Algorithms
-- System Design
 - SQL
 
 ---
